@@ -15,6 +15,6 @@
 
 ## Important Note
 
- --If you showcase this mod please credit me - ColDog5044
- --Please don't redistribute this mod without my permission
+ - If you showcase this mod please credit me - ColDog5044
+ - Please don't redistribute this mod without my permission
  If you have any questions, Visit the descussions tab.
