@@ -5,6 +5,8 @@
  - Decreased upgrade times, nothing takes more than 24 hours
  - Increased upgrade xp
  - Increased all tile bloonstone rewards
+ - Level up rewards
+   - Final level gives massive rewards
 
 Known Bugs: None - Go to the 'Issues' tab to create a bug report
 
