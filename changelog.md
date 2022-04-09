@@ -1,6 +1,6 @@
 > # ColDog5044's BMC Mod - Changelog
 
-## 1.3.4
+## 1.3.4 (In development)
 
  - Decreased upgrade times, nothing takes more than 24 hours
  - Increased upgrade xp
