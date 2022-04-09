@@ -1,4 +1,4 @@
-> # ColDog5044's BMC Mod - Changelog
+> # ColDog5044's BMC Mod - Features
 
  - Banana Farmer added to the shop
  - Quests have higher rewards
