@@ -1,5 +1,15 @@
 > # ColDog5044's BMC Mod - Changelog
 
+## 1.3.4
+
+ - Decreased upgrade times, nothing takes more than 24 hours
+ - Increased upgrade xp
+ - Increased all tile bloonstone rewards
+
+Known Bugs: None - Go to the 'Issues' tab to create a bug report
+
+Future Updates: None - Go to the 'Issues' tab to create a feature request
+
 ## 1.3.3
 
  - Banana Farmer added to the shop
