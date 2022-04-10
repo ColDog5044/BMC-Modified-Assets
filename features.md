@@ -12,4 +12,3 @@
  - Better Banana Farms
  - Better Tack Shooter
  - Better Monkey Village
- - Banana Farms are allowed on all track types
