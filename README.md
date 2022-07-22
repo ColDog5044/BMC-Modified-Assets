@@ -1,5 +1,14 @@
 > # ColDog5044’s Premodified Assets
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ColDogStudios/BMC-Modified-Assets
+?display_name=release)
+![GitHub all releases](https://img.shields.io/github/downloads/ColDogStudios/BMC-Modified-Assets
+/total)
+![GitHub issues](https://img.shields.io/github/issues/ColDogStudios/BMC-Modified-Assets
+)
+![GitHub last commit](https://img.shields.io/github/last-commit/ColDogStudios/BMC-Modified-Assets
+)
+
 ---
 
 ## Terms of Use
